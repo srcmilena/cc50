@@ -58,6 +58,6 @@ Módulo 8
 
 ****
 
-### Móduo 10
+### Módulo 10
 
 -   Ética
