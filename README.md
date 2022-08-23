@@ -1,63 +1,63 @@
-# CC50: Introdução à Ciência da Computação
+# CC50: Introduction to computer science
 
-Esse é o curso introdutório de Ciência da Computação de Harvard (CS50). É falado sobre como computadores e como a Internet funcionam e sobre programação. É possível abstrair para ter uma base para inciar projetos em Web Design, Bancos de Dados, Sistemas Eletrônicos, Programação de Software, entre outros.
+This is Harvard's introductory Computer Science course (CS50). It talks about how computers and the Internet work and about programming. You can abstract to have a basis for starting projects in Web Design, Databases, Electronic Systems, Software Programming, and more.
 
 ****
 
-### Módulo 0
+### Module 0
 
 -   Scratch
 
 ****
 
-### Módulo 1
+### Module 1
 
 -   C
 
 ****
 
-### Módulo 2
+### Module 2
 
 -   Arrays
 
 ****
 
-### Módulo 4
+### Module 4
 
--   Algoritmos
-
-****
-
-### Módulo 5
-
--   Memória
+-   Algorithms
 
 ****
 
-### Módulo 6
+### Module 5
+
+-   Memory
+
+****
+
+### Module 6
 
 -   Python
 
 ****
 
-### Módulo 7
+### Module 7
 
 -   SQL
 
 ****
 
-Módulo 8
+### Module 8
 
 -   HTML, CSS, JavaScript
 
 ****
 
-### Módulo 9
+### Module 9
 
 -   Flask
 
 ****
 
-### Módulo 10
+### Module 10
 
--   Ética
+-   Ethics
